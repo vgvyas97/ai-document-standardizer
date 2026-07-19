@@ -1,0 +1,6 @@
+AI-Document Standardizer 
+
+An automated technical writing tool designed to eliminate structural documentation drift, reduce friction in engineering team
+offboardings/onboardings, and implement a rigid "Documentation-as-Code" standard. This web application transforms chaotic, 
+unformatted engineer logs and rough notes into production-grade, compliance-ready Markdown documents (SOPs, Runbooks, and Knowledge Bases) 
+using deterministic AI layout replication.
